@@ -1,9 +1,7 @@
 # 记录从小到大看过的动画
 ![](myFavNormal.jpg)
 
-<details><summary>nothing here</summary>
 ![](myFavR18.jpg)
-</details>
 
 - 哆啦A梦
 - 鲁邦三世
