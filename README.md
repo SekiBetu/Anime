@@ -341,3 +341,4 @@
 - Love Live系列
 - Wake Up, Girls!
 - BanG Dream系列
+- Girls Band Cry
